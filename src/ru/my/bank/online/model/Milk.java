@@ -1,6 +1,5 @@
 package ru.my.bank.online.model;
 
-public class Milk {
+public class Milk extends  Product {
 
-    private String name;
 }
